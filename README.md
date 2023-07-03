@@ -5,7 +5,7 @@
 
  <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1&color=CBA6F7&center=true&vCenter=true&width=435&lines=I+like+penguins.;I'm+sleepy.;I+like+french+fries.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=750&color=CBA6F7&center=true&vCenter=true&width=435&lines=I+like+penguins.;I'm+sleepy.)](https://git.io/typing-svg)
   
  </div>
 <p align="right">」</p>                                                                     
