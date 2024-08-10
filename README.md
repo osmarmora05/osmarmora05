@@ -5,10 +5,10 @@
 <div align="center">
 Hi, I am Osmar <br>
 <br>
-I like penguins and front-end dev   
+<samp>I like penguins and front-end dev</samp>
 </div>
 <p align="right">」</p>
-
+<br>
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 <h2></h2>
