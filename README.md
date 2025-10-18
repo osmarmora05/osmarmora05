@@ -13,7 +13,7 @@ Hi, I am Osmar <br>
 <summary><samp><b>More Info</b></samp></summary>
 <h2></h2>
 
-<b> My pitiful stats </b>
+<b> My stats </b>
 
 <div align="center" style="margin-top: 80px;">
   <table>
